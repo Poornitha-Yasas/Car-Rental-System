@@ -4,13 +4,14 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/Poornitha-Yasas/Car-Rental-System/blob/main/Screenshot_20250212_131957.png?raw=true" alt="project-screenshot" width="270" height="600">
-
-<img src="https://github.com/Poornitha-Yasas/Car-Rental-System/blob/main/Screenshot_20250212_132055.png?raw=true" alt="project-screenshot" width="270" height="600">
-
-<img src="https://github.com/Poornitha-Yasas/Car-Rental-System/blob/main/Screenshot_20250212_132128.png?raw=true" alt="project-screenshot" width="270" height="600">
+<div>
+  <img src="https://github.com/Poornitha-Yasas/Car-Rental-System/blob/main/Screenshot_20250212_131957.png?raw=true" alt="project-screenshot" width="270" height="600" style="display: inline-block; margin-right: 10px;">
+  <img src="https://github.com/Poornitha-Yasas/Car-Rental-System/blob/main/Screenshot_20250212_132055.png?raw=true" alt="project-screenshot" width="270" height="600" style="display: inline-block; margin-right: 10px;">
+  <img src="https://github.com/Poornitha-Yasas/Car-Rental-System/blob/main/Screenshot_20250212_132128.png?raw=true" alt="project-screenshot" width="270" height="600" style="display: inline-block;">
+</div>
 
 <h2>🛠️ Installation Steps:</h2>
+
 
 <p>1. Android Studio: For building and running the app.</p>
 
