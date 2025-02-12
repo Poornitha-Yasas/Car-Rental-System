@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680400879823",
+    "project_id": "riyasaka-mobile-app",
+    "storage_bucket": "riyasaka-mobile-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680400879823:android:0966167bcb8c59c27af7ba",
+        "android_client_info": {
+          "package_name": "com.example.carrentalsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517814999061-qnojv2lq41d1ut4qfb4vmu794bkpbkdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3XQPphlIb4SyMRNBETVNnhzrWiQxeDyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517814999061-qnojv2lq41d1ut4qfb4vmu794bkpbkdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

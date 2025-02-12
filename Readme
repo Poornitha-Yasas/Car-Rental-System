@@ -1,0 +1,8 @@
+This app offers a seamless and affordable car rental experience. With the growing trend of living luxuriously, we make it easy for users to rent cars at reasonable prices through our platform.
+
+Prerequisites
+Before running the project, make sure to install the following:
+
+Android Studio: For building and running the app.
+JDK 17: Required for the app to function properly.
+Firebase: Used as the database for the app.
